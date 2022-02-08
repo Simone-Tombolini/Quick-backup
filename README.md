@@ -1,7 +1,7 @@
 # Quick-backup
 A simple tool for quick backup in your daily file transfer.
 
-This program is a simple tool tath allow you to copy a source directory into a destination directory, and remember a default path that will be reused in futere access.
+This program is a simple tool that allow you to copy a source directory into a destination directory, and remember a default path that will be reused in futere access.
 
 For security reason the program must be installed, run and it can manipulate file only in standard user directory.
 
