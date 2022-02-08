@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\bin\Debug\Quick Backup.exe.config
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\bin\Debug\Quick Backup.exe
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\bin\Debug\Quick Backup.pdb
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\obj\Debug\Quick Backup.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\obj\Debug\Quick_Backup.Form1.resources
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\obj\Debug\Quick_Backup.Properties.Resources.resources
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\obj\Debug\Quick Backup.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\obj\Debug\Quick Backup.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\obj\Debug\Quick Backup.exe
+C:\Users\PC\Desktop\project\Quick Backup\Quick Backup\obj\Debug\Quick Backup.pdb
